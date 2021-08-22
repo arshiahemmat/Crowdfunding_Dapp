@@ -1,2 +1,6 @@
-# Crowdfunding_Dapp
-This is a crowdfunding app. The core of this Dapp is in the language of solidity and is on the Ethereum network. This Dapp is connected to your Metamsk account with the help of web3 and payments are through Metamsk.
+# Crowdfunding Dapp
+This Dapp is on the Ethereum platform.  
+The core of the program is written in solidity.  
+The web3 library in JavaScript is used to connect the blockchain kernel to Front-end.  
+This app is a decentralized example of a Kickstarter site
+
